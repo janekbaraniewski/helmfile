@@ -3,7 +3,7 @@ module github.com/roboll/helmfile
 go 1.12
 
 require (
-	github.com/Masterminds/goutils v1.1.0 // indirect
+	github.com/Masterminds/goutils v1.1.1 // indirect
 	github.com/Masterminds/semver v1.4.1
 	github.com/Masterminds/sprig v2.20.0+incompatible
 	github.com/go-test/deep v1.0.3
